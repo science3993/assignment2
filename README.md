@@ -24,4 +24,5 @@ print(a.max())
 print("array with replaced max value")
 
 a[a==a.max()]=0
+
 print(a)
